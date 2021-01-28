@@ -47,7 +47,7 @@ app.post('/review', (req, res) => {
 
 
 app.get('/', (req, res) => {
-  res.send("Programming Hero show via node.js")
+  res.send("Programming Hero show via node.js Server")
 })
 
  
